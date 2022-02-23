@@ -58,14 +58,13 @@ h5 {
     font-size: 2em;
   }
 
-.cabec {
+  .cabec {
     height: 650px;
     background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
     position: 0 0;
     background-repeat:no-repeat;
-    size: cover;
+    background-size: cover;
 }
-
 .cabech2 {
     color:white;
     text-shadow: #020819 8px -20px 9px;
